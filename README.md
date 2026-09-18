@@ -16,4 +16,13 @@ Leetcode problem solving repo
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saisourav21/Leetcode-py/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/saisourav21/Leetcode-py/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saisourav21/Leetcode-py/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saisourav21/Leetcode-py/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
